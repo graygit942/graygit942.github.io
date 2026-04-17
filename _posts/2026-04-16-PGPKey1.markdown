@@ -1,5 +1,5 @@
 ---
-list_title: Example4321
+test123: Example Try
 permalink: /PGPKey
 layout: post
 title:  "Public PGP Key"
