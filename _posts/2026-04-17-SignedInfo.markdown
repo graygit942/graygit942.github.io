@@ -1,4 +1,5 @@
 ---
+list_title: Testing 123
 permalink: /SignedMessages
 layout: post
 title:  "Signed Contact Information"
