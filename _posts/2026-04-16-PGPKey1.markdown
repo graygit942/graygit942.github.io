@@ -1,5 +1,4 @@
 ---
-test123: Example Try
 permalink: /PGPKey
 layout: post
 summary: Text PGP Key for 'bradley@gray-mail.ca
