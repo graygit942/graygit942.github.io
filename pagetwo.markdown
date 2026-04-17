@@ -4,5 +4,4 @@ permalink: /PGP/Downloads
 title: Download
 ---
 
-Downloads for PGP Keys
-[bradley@gray-mail.asc](https/gray-mail.ca/PGP/Downloads/)
+<a href="/bradley@gray-mail.asc" download=filename>DOWNLOAD</a>
