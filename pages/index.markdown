@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 Welcome to My Home Page, Website is still being built.
