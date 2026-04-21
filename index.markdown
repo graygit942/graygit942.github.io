@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home Page
 ---
 
 Welcome to My Home Page, Website is still being built.
