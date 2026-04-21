@@ -1,5 +1,4 @@
 ---
-list_title: 'PGP Keys'
 permalink: /PGPKey
 layout: post
 title:  "Public PGP Key"
