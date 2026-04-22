@@ -45,11 +45,10 @@ jobs:
         uses: actions/configure-pages@v6.0.0
       - name: Build Jekyll for GitHub Pages
         uses: actions/jekyll-build-pages@v1.0.13
-        run: bundle exec jekyll build --baseurl ""
         with:
-          source: "./"
-          destination: "./_site"
-
+         source: "./"
+         destination: "./_site"
+         
         env:
           JEKYLL_ENV: production
       - name: Upload GitHub Pages artifact
