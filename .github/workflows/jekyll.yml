@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ruby update
-        run: bundle insrall & git add Gemfile Gemfile.lock
+        run: gem update --system
       - name: Checkout
         uses: actions/checkout@v6.0.2
       - name: Setup Ruby
